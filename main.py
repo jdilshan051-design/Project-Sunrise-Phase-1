@@ -2,7 +2,7 @@ import asyncio
 import json
 from fastapi import FastAPI, WebSocket, WebSocketDisconnect
 from fastapi.middleware.cors import CORSMiddleware
-from app.simulator import CabinSimulator
+from simulator import CabinSimulator
 
 app = FastAPI(title="Project Sunrise Digital Twin Core")
 
