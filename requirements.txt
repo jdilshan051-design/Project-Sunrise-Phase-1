@@ -1,8 +1,11 @@
+streamlit
 fastapi
 uvicorn
 numpy
 websockets
 pydantic
 pydantic-core
-streamlit
+--extra-index-url https://download.pytorch.org/whl/cpu
 torch
+torchvision
+torchaudio
