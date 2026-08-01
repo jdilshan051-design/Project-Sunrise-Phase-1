@@ -5,3 +5,4 @@ websockets
 pydantic
 pydantic-core
 streamlit
+torch
